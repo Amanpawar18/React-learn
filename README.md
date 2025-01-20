@@ -1,8 +1,26 @@
-# React + Vite
+# React Learn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A repository for learning and experimenting with **React.js**. This project contains various examples, exercises, and small projects to help understand React concepts like state management, components, hooks, routing, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Components**: Learn how to create reusable components.
+- **State Management**: Understand how to use React state and hooks (`useState`, `useEffect`, etc.).
+- **Routing**: Work with React Router to handle navigation within the application.
+- **Form Handling**: Learn how to manage form input and validation.
+- **API Integration**: Fetch and display data from APIs using React.
+
+## Tech Stack
+
+- **Frontend**: 
+  - React.js
+  - React Router (for routing)
+  - Axios (for API requests)
+  - Styled-components (for styling)
+
+## Installation
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/Amanpawar18/React-learn.git
